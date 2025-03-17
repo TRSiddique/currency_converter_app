@@ -4,12 +4,8 @@ A simple and modern **Flutter Currency Converter App** that converts USD to BDT 
 
 ## 📸 Screenshots
 
-### Home Screen  
-![Home Screen](assets/s1.png)
-
-### Result Screen  
-![Result Screen](assets/s2.png)
-
+| ![s1](assets/s1.png) | ![s2](assets/s2.png) | 
+|---|---|
 ---
 
 ## ✨ Features  
