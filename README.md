@@ -22,4 +22,4 @@ A simple and modern **Flutter Currency Converter App** that converts USD to BDT 
 
 1️⃣ Clone this repository  
 ```sh
-git clone https://github.com/yourusername/flutter-currency-converter.git
+git clone https://github.com/trsiddique/flutter-currency-converter.git
