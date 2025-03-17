@@ -1,3 +1,29 @@
-# currency_converter
+# 💱 Flutter Currency Converter (USD to BDT)
 
-A new Flutter project.
+A simple and modern **Flutter Currency Converter App** that converts USD to BDT with an attractive UI.  
+
+## 📸 Screenshots
+
+### Home Screen  
+![Home Screen](assets/s1.png)
+
+### Result Screen  
+![Result Screen](assets/s2.png)
+
+---
+
+## ✨ Features  
+
+✔️ Beautiful **gradient UI**  
+✔️ **Instant USD to BDT conversion** (1 USD = 120 BDT)  
+✔️ **User-friendly input field**  
+✔️ **Navigation between screens**  
+✔️ **Rounded buttons & smooth UI**  
+
+---
+
+## 🛠️ Installation & Setup  
+
+1️⃣ Clone this repository  
+```sh
+git clone https://github.com/yourusername/flutter-currency-converter.git
